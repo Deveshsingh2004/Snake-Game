@@ -1,2 +1,2 @@
 # Snake-Game
-The is a snake game made from html css and javaScript.
+This is a snake game made from html css and javaScript.
